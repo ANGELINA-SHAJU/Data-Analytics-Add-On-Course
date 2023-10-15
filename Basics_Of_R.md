@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Data-Analytics-using-R
 Course Repository for add-on programme at VJCET, Kannur
 ----
